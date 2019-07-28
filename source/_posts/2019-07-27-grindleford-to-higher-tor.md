@@ -14,7 +14,7 @@ tags:
         {% fa_inline stopwatch fas %} 03h00
     </span>
     <span class="indicator">
-        {% fa_inline arrows-alt-h fas %} 9.12km
+        {% fa_inline arrows-alt-h fas %} 10km
     </span>
     <span class="indicator">
         {% fa_inline arrows-alt-v fas %} 250m
@@ -26,10 +26,10 @@ tags:
         {% fa_inline fist-raised fas %} Intermediate
     </span>
     <span class="gps-file"> 
-        {% asset_link "Grindleford_to_Higher_Tor.gpx" "Gps file (.gpx)" %}
-    </span>
-    
+        {% asset_link "map.gpx" "Gps file (.gpx)" %}
+    </span> 
 </p>
+
 {% fa_css %}
 
 For my first hike in the peaks in a very long while, I chose to head to Higher Thor, one of the most popular spot in the Peaks. 
@@ -74,4 +74,4 @@ From then on you will be heading downward steadily, toward the last part of the 
 {% asset_img padley_trail_2.jpeg %}
 {% asset_img burbage_brook.jpeg %}
 
-**Inpired from:** The book [*Dark Peak Walks*](https://www.amazon.co.uk/Dark-Peak-Walks-Exploring-Landscapes/dp/1852845198) in the *Cicerone Collection*
+**Inspired from:** The book [*Dark Peak Walks*](https://www.amazon.co.uk/Dark-Peak-Walks-Exploring-Landscapes/dp/1852845198) in the *Cicerone Collection*
