@@ -81,6 +81,8 @@ search:
   field: post
   content: true
 
+disqus_shortname: the-carless-hiker
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
