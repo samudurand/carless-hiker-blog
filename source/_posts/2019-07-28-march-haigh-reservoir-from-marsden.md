@@ -56,7 +56,7 @@ The walk start at the *Huddersfield narrow canal* close by the Marsden train sta
 
 {% asset_img start_canal.jpeg %}
 
-After leaving the canal the hike cross a few properties and eventually goes through an area covered with local vegetable gardens and even an apiary. The locals there were very happy to have a chat about their gardening and honey making secrets.
+After leaving the canal the hike crosses a few properties and eventually goes through an area covered with local vegetable gardens and even an apiary. The locals there were very happy to have a chat about their gardening and honey making secrets.
 
 {% asset_img honey_pot.jpeg %}
 {% asset_img metal_door.jpeg %}
@@ -70,7 +70,7 @@ From then on the next few kilometers are on the vast moorlands that surrounds th
 
 {% asset_img moorland_infinite.jpeg %}
 
-Somewhere along the path you will reach *Standedge*, a major moorland crossing point since roman times. You will there some real solitude and magnificent views.
+Somewhere along the path you will reach *Standedge*, a major moorland crossing point since roman times. You can find there some real solitude and magnificent views.
 
 {% asset_img standedge.jpeg %} 
 
