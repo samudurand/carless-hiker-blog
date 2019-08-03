@@ -38,6 +38,8 @@ Summary
 **Cities:** 
 **Travel from Manchester:** 
 
+{% asset_img abc.jpeg %}
+
 <!-- more -->
 
 # The Map
@@ -48,4 +50,4 @@ Summary
 
 # Overview
 
-**Inpired from:**   
+**Inspired from:**   
