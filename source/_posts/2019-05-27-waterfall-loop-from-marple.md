@@ -6,12 +6,15 @@ tags:
   - circular
   - peak district
   - direct travel
-date: 2019-08-03 09:53:13
+date: 2019-05-27 09:53:13
 ---
 
 <p>
     <span style="margin-left: 0.5em" class="indicator">
         {% fa_inline stopwatch fas %} 02h00
+    </span>
+    <span class="indicator">
+        {% fa_inline bus fas %} 00h20
     </span>
     <span class="indicator">
         {% fa_inline arrows-alt-h fas %} 10km

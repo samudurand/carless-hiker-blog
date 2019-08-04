@@ -14,6 +14,9 @@ date: 2019-05-24 15:00:00
         {% fa_inline stopwatch fas %} 03h00
     </span>
     <span class="indicator">
+        {% fa_inline bus fas %} 00h40
+    </span>
+    <span class="indicator">
         {% fa_inline arrows-alt-h fas %} 13km
     </span>
     <span class="indicator">
