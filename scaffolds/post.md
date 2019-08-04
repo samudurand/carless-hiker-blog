@@ -14,6 +14,9 @@ tags:
         {% fa_inline stopwatch fas %} 00h00
     </span>
     <span class="indicator">
+        {% fa_inline bus fas %} 00h00
+    </span>
+    <span class="indicator">
         {% fa_inline arrows-alt-h fas %} 0km
     </span>
     <span class="indicator">
