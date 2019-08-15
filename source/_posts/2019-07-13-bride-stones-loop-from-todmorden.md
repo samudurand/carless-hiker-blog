@@ -49,7 +49,7 @@ This one is a lazy walk on the high grounds above *Todmorden*, just above the no
 
 {% iframe https://www.komoot.com/tour/78582676/embed?profile=1 100% 580 %}
 
-**OS Maps:** 
+**OS Maps:** OL21 South Pennines
 
 # Overview
 

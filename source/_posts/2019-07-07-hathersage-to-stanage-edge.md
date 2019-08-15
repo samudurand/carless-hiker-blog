@@ -49,7 +49,7 @@ This weekend I headed for *Stanage Edge*, a well known and long cliff that overl
 
 {% iframe https://www.komoot.com/tour/77432991/embed?profile=1 100% 580 %}
 
-**OS Maps:** 
+**OS Maps:** OL1 Dark Peak
 
 # Overview
 
