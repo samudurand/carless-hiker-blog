@@ -1,5 +1,5 @@
 ---
-title: grindleford-eyam
+title: Grindleford to Eyam
 tags:
   - hike
   - intermediate
